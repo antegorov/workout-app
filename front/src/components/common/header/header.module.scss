@@ -1,0 +1,10 @@
+@import '../../../scss/_variables.scss';
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	> button {
+		background-color: transparent;
+	}
+}
